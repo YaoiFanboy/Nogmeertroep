@@ -10,6 +10,7 @@ currentGuess=[]
 responsePegs=[]
 won=False
 turn=1
+#alle Combinaties maken
 def getCombination():
   combinations=[]
   for i in range(1,NUM_COLOURS+1,1):
@@ -126,7 +127,7 @@ def main():
       print(i, end=" ")
     print( "= " , responsePegs )
 
-    # If the response is four colored pegs, the game is won
+    # Win conditie
     if responsePegs == "BBBB":
         won = True;
         print( "Congratulations, Game Won!" )
