@@ -7,6 +7,5 @@ Bronnen:
 https://github.com/Dungyichao/Mastermind
 https://theses.liacs.nl/pdf/2018-2019-GraafSde.pdf
 https://www.geeksforgeeks.org/mastermind-game-using-python/
-https://stackoverflow.com/questions/30483278/mastermind-minimax-algorithm-in-python (ik heb hier een hele erge lite versie van)
 https://replit.com/talk/share/~-Knuths-MASTERMIND-algorithm-in-Python-board-game-~/17435
 https://stackoverflow.com/questions/20302682/mastermind-in-python 
